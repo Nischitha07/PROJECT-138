@@ -1,0 +1,38 @@
+body
+{
+    background-position:inherit;
+}
+#img_gif
+{
+    width:100%;
+    height:10%;
+}
+#header_div
+{
+    width:100%;
+    height:30%;
+    font-size: 25px;;
+}
+#instruction_btn
+{
+    font-size: 20px;;
+    border:2px white solid;
+    float:right;
+}
+#tv
+{
+    width:1380px;
+    height:1000px;
+}
+#game_playing
+{
+    height:150px;
+    width:100px;
+}
+canvas
+{
+    position:fixed;
+margin-top:530px;
+margin-left:-55px;
+border-radius: 65px;
+}
